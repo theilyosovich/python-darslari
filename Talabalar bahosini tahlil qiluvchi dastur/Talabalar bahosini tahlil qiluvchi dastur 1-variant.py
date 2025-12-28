@@ -2,7 +2,7 @@
 Talabalar bahosini tahlil qiluvchi dastur 
 
 
-Bunda quyidagi mavzular qamrab olamiz.
+Bunda quyidagi mavzularni qamrab olamiz.
 
 🟠 Lists
 🔵 for sikli
